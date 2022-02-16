@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/html_lab/html_lab.iml" filepath="$PROJECT_DIR$/html_lab/html_lab.iml" />
+      <module fileurl="file://$USER_HOME$/psu_bootstrap_lab/psu_bootstrap_lab.iml" filepath="$USER_HOME$/psu_bootstrap_lab/psu_bootstrap_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psu_html_forms_lab/psu_html_forms_lab.iml" filepath="$PROJECT_DIR$/psu_html_forms_lab/psu_html_forms_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psu_whatever.iml" filepath="$PROJECT_DIR$/psu_whatever.iml" />
+    </modules>
+  </component>
+</project>
